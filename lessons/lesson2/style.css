@@ -1,0 +1,45 @@
+div.bbb div.aaa#bbb ul#ccc.ddd li.qqq.www a#rrr.ttt span.vvv{
+    color: red;
+}
+
+
+div.aaa#bbb ul#ccc.ddd li.qqq.www a#rrr.ttt span.vvv{
+    color: blue;
+    font-weight: bold;
+}
+
+
+
+#test{
+    background-color: aqua;
+}
+body{
+    height: 10000px;
+}
+h1{
+    color: blue; 
+    text-align: center;
+}
+p{
+    font-style: italic;
+   
+}
+.vip{
+    color: red;
+}
+.super-vip{
+    color: blue;
+    font-weight: bold;
+}
+.menu1 li{
+     background-color: red;   
+}
+.menu2 li{
+    background-color: blue;
+}
+.aaa{
+    background: coral;
+}
+div.aaa{
+    font-weight: bold;
+}
